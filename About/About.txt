@@ -1,0 +1,13 @@
+	
+	embedXcode
+	----------------------------------
+	Embedded Computing Template on Xcode 4
+
+
+	© Rei VILO, 2010-2012
+	CC = BY NC SA	
+	http://embedXcode.weebly.com/
+	
+	
+embedXcode • Dec 10, 2012 release 23 • Fixed MAPLE_IDE variables and added Energia 9 support for Stellaris
+User Manual • Dec 10, 2012 release 17 • New section Dealing with Issues
